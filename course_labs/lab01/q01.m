@@ -1,7 +1,7 @@
 % These are commands to run one at a time in the Command Window to read MATLAB's documentation. 
 % Nothing to "solve", just explore.
 
-%    help clc        % clc      -> clears the Command Window display
+%    help clc       % clc      -> clears the Command Window display
 %   help clear      % clear    -> removes variables from workspace
 %   help who        % who      -> lists variable names in workspace
 %   help whos       % whos     -> lists variables with size/class/bytes
